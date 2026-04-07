@@ -166,4 +166,4 @@ jupyter notebook notebooks/rfm_segmentation.ipynb
 
 **Yaradoni Prathapa**
 📧 prathapayaradoni@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/prathap117)
+🔗 [LinkedIn](https://www.linkedin.com/in/yaradoni-prathapa-467645297/) | [GitHub](https://github.com/prathap117)
